@@ -27,9 +27,10 @@ I am a passionate and dedicated individual interested in **Full Stack Developmen
 
 [![LeetCode Stats](https://img.shields.io/badge/LeetCode-hampu_-orange)](https://leetcode.com/hampu_/)
 
-### Connect with me:
 
 ---
+
+### Connect with me:
   
 <a href="https://linkedin.com/in/(https://www.linkedin.com/in/hampanna-gouda-39518b25a/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
