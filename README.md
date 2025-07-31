@@ -22,6 +22,10 @@ I am a passionate and dedicated individual interested in **Full Stack Developmen
 
 ---
 
+### My LeetCode Stats
+
+[![hampu_'s LeetCode stats](https://leetcode-stats-six.vercel.app/?username=hampu_)](https://github.com/KnlnKS/leetcode-stats)
+
 ### Connect with me:
   
 <a href="https://linkedin.com/in/(https://www.linkedin.com/in/hampanna-gouda-39518b25a/)" target="_blank">
