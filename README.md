@@ -25,8 +25,7 @@ I am a passionate and dedicated individual interested in **Full Stack Developmen
 
 ### My LeetCode Stats
 
-[![LeetCode Stats](https://leetcard.yugesh.dev/hampu_?theme=dark)](https://leetcode.com/hampu_/)
-
+[![LeetCode Stats](https://img.shields.io/badge/LeetCode-hampu_-orange)](https://leetcode.com/hampu_/)
 
 ### Connect with me:
   
